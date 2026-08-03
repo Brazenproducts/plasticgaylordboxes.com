@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plasticgaylordboxes.com/sitemap.xml
